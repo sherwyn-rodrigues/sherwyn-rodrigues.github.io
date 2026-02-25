@@ -2,7 +2,7 @@
   "patches": [
     {
       "files": [ "game.zip" ],
-      "folder": "game/KnightArena",
+      "folder": "game/Content/KnightArena",
       "version": 0.1,
       "save_as": "game.zip"
     }
