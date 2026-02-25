@@ -1,0 +1,16 @@
+{
+  "patches": [
+    {
+      "files": [ "A2.png" ],
+      "folder": "game/KnightArena",
+      "version": 0.1,
+      "save_as": "A2.png"
+    },
+    {
+      "files": [ "A3.png" ],
+      "folder": "game/KnightArena",
+      "version": 0.1,
+      "save_as": "A3.png"
+    }
+  ]
+}
