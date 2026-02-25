@@ -5,6 +5,12 @@
       "folder": "game/KnightArena/Content/Paks/",
       "version": 0.1,
       "save_as": "Game.zip"
+    },
+    {
+      "files": [ "11.png" ],
+      "folder": "game/",
+      "version": 0.1,
+      "save_as": "11.png"
     }
   ]
 }
